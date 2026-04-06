@@ -8,7 +8,7 @@ I analyzed a dataset of 550,000+ Black Friday transactions to understand custome
 This was my first time using Tableau so I had to do some research along the way to figure out how to build dashboards. I kept it simple with 2 clear charts that tell the most important story in the data.
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## What the Dashboard Shows
 - Male customers spend around 3x more than female customers on Black Friday
